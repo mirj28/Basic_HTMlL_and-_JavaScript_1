@@ -1,0 +1,17 @@
+<!--Basic_HTML_1.html-->
+
+<!DOCYPE html>
+<html lang ="en">
+<head>
+<title>Basic HTML and JavaScript</title>
+<meta charset = "utf-8">
+</head>
+
+<body>
+<Hello world, I hope you are doing well!</p>
+<br>
+<p><b>I hope</b> you can see<u>my work here!</u> <i>Today</i></p>
+
+<img src="https://www.theanimalspot.com/amurtigersmall.jpg" alt="amurtiger image">
+
+<script src="Basic"
