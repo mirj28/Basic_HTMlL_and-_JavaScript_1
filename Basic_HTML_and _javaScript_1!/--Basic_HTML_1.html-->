@@ -1,0 +1,53 @@
+--Basic_HTML_1.html-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>This is my second Basic HTML Assignment</title>
+<meta charset = "utf-8">
+</head>
+
+<body>
+
+<p>Hello,world! Ihope you are doing well and you can see me ask you that!</p>
+<br>
+<p><b>Today is a</b> <u>great</u> <i>day!</i></p>
+
+<img src ="https://www.theanimalspot.com/amurtigersmall.jpg" alt="Amurtiger Image">
+
+<script src="Basic JavaScript 1.js"></script>
+
+</body>
+</html>
+
+//Basic JavaScript 1.js
+
+alert('Hello, World! I am an alert box!');
+
+<!--Basic_HTML_2.html-->
+
+<!DCTYPE html>
+<html lanag="en">
+<head>
+<title>This is my second HTML</title>
+<meta charset ="utf-8">
+</head>
+
+<body>
+<button onclick="My_First_Function()">
+Click Me!
+
+</button>
+<p id ="Irish"></p>
+<script src="Basic_JavaScript_2.js></scipt>"
+</body>
+
+</html>
+
+//Basic_JavaScipt_2.js
+
+function My_First_Function() {
+	var String = "Are you sure you are Irish?";
+	var result = String.fontcolor("green");
+	document.get/elementById("Irish").innerHTML - result;
+}
